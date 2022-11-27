@@ -1,9 +1,7 @@
-OnlineOrder: A Spring and Hibernate based online food ordering system
-Github: 
-•	Implemented React API via Spring MVC including registration, searching and ordering, checkout etc.
-•	Utilized Hibernate to access and operate the data storage (menu, restaurants etc.)
-•	Provided both authentication and authorization via Spring security to protect the application
-•	Used the Spring framework core technologies to loosely decouple all the components in the application
-•	Build the client side with ReactJS and Ant Design, allows users to add items to the shopping cart and place orders.a
-![image](https://user-images.githubusercontent.com/115426274/198887070-11063b75-7a31-49b8-a469-6f90f7c96cf1.png)
+Online Food Ordering: A Spring and Hibernate-based online ordering system
 
+•	Utilized Spring MVC to implement React API; features included registration, searching, ordering, checkout, etc.
+•	Accessed and monitored the database using Hibernate; data included menu, restaurants, etc.
+•	Created authentication and authorization features via Spring security to prevent the application from illegal access
+•	Used the Spring framework core technologies to loosely decouple all the components in the application
+•	Build the client-end with ReactJS and Ant Design; enabled users to add items to the shopping cart and to place orders
