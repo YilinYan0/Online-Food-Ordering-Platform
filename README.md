@@ -1,4 +1,4 @@
-Online Food Ordering: A Spring and Hibernate-based online ordering system
+# Online Food Ordering Platform: A Spring and Hibernate based online ordering system
 
 •	Utilized Spring MVC to implement React API; features included registration, searching, ordering, checkout, etc.
 
